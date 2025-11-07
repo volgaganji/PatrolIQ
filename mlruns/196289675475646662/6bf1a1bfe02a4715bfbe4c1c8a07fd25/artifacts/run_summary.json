@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-07T07:33:17.374515",
+  "params": {
+    "pca_n_components": 6,
+    "pca_sample_n": 50000,
+    "kmeans_k": 8,
+    "do_dbscan": true,
+    "dbscan_eps": 0.01,
+    "dbscan_min_samples": 5,
+    "use_umap": false
+  },
+  "pca_variance": [
+    0.2582976748532514,
+    0.25297837495659664,
+    0.16727529925188933,
+    0.16608025432179452,
+    0.08027518256134286,
+    0.07509321405512538
+  ],
+  "clustering_scores": {
+    "kmeans": {
+      "silhouette": 0.15300160102239543,
+      "davies_bouldin": 1.6932213657355324,
+      "calinski_harabasz": 47840.90646316371
+    },
+    "birch": {
+      "silhouette": 0.09741796195983432,
+      "davies_bouldin": 1.9827946404402257,
+      "calinski_harabasz": 34393.347669608374
+    },
+    "dbscan": {
+      "silhouette": null,
+      "davies_bouldin": null,
+      "calinski_harabasz": null
+    }
+  }
+}

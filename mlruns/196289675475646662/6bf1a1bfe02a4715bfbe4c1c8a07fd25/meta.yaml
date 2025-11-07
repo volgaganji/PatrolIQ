@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/New/Desktop/PatrolIQ/mlruns/196289675475646662/6bf1a1bfe02a4715bfbe4c1c8a07fd25/artifacts
+end_time: 1762500797574
+entry_point_name: ''
+experiment_id: '196289675475646662'
+lifecycle_stage: active
+run_id: 6bf1a1bfe02a4715bfbe4c1c8a07fd25
+run_name: clustering_run_20251107T073316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500797244
+status: 3
+tags: []
+user_id: New
